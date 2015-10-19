@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(247, 231, 41);
+    font-family: monospace;
+}
+
+.wrap {
+    position: relative;
+}
+
+.circle1 {
+    /* Logo */
+    box-sizing: border-box;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 50%;
+    top: -75px;
+    left: 300px;
+    border-radius: 50%;
+    background-color: rgb(228, 94, 58);
+    color: rgb(246, 226, 40);
+    padding-top: 90px;
+}
+
+.circle2 {
+    /* Contact info */
+    box-sizing: border-box;
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    text-align: center;
+    border-radius: 50%;
+    top: 250px;
+    left: 150px;
+    border-radius: 50%;
+    background-color: rgb(155, 84, 5);
+    color: white;
+    padding: 30px;
+    padding-top: 100px;
+}
+
+.circle3 {
+    /* Hello */
+    box-sizing: border-box;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    border-radius: 50%;
+    top: 200px;
+    left: 400px;
+    border-radius: 50%;
+    background-color: white;
+    color: brown;
+    font-size: 1.2em;
+    padding: 100px;
+}
+
+.circle4 {
+    /* Pikachu */
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50%;
+    top: 100px;
+    left: 700px;
+    border-radius: 50%;
+    background-color: white;
+    padding-top: 25px;
+    padding-left: 7px;
+}
+
+.circle5 {
+    /* Facebook */
+    box-sizing: border-box;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50%;
+    top: 500px;
+    left: 1024px;
+    border-radius: 50%;
+    background-color: rgb(155, 84, 5);
+    color: white;
+    padding-top: 10px;
+}
+
+.circle6 {
+    /* Copyright */
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50%;
+    top: 750px;
+    left: 400px;
+    border-radius: 50%;
+    background-color: rgb(228, 94, 58);
+    color: rgb(246, 226, 40);
+    padding-top: 90px;
+}
